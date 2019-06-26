@@ -13,26 +13,22 @@ http://pc-physics.com/montecarlo1.html
 
 ### 手順
 
-（１）Git Clone する
+（１）Git Clone
 
 ```
 $ git clone git@github.com:junappl/python-sample.git
 $ cd python-sample
 ```
 
-（２）Jupyter Notebook を起動する
+（２）Jupyter Notebook の起動
 
 ```
 $ jupyter notebook
 ```
 
-（３）ipynbファイルを開く
+（３）実行
 
-pi.ipynbを開く
-
-（４）実行する
-
-「Run」ボタンを押す、または「shift」＋「enter」を押す。
+pi.ipynbを開き、「Run」ボタンを押す、または「shift」＋「enter」を押す。
 
 ### 結果
 
